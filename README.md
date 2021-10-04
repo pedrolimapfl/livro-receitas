@@ -3,8 +3,4 @@
 Olá! Bem vindo ao livro de receitas :cake:
 
 - Strogonoff de Frango :chicken:
-
-
-
-aaaa
-
+- Pastel
